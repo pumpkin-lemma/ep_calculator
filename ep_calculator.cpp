@@ -15,7 +15,7 @@ int main() {
 	double extMax = 0;
 	regex whitespace("\\s+");
 	
-	cout << endl << "Please copy the horse's personality and conformation text below and press enter." << endl;
+	cout << "Please copy the horse's personality and conformation text below and press enter." << endl;
 	while (reading) {
 		getline(cin, line);
 		if (line.find("temperament") != -1) {
