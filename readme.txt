@@ -1,5 +1,5 @@
 Welcome to the Equinepassion Calculator!
-- by pumpkinlemma, version: 8 September 2020 -
+- by pumpkinlemma, version: 13 September 2020 -
 
 With this program you can calculate estimations for your horses' personality and conformation grades
 on the english version of EquinePassion!

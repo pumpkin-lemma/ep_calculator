@@ -157,7 +157,7 @@ int main() {
 		if (line == "poorintelligence") {
 			intMin += 1.5;
 			intMax += 2.5;
-		} else if (line == "etwaswenigintelligence") {
+		} else if (line == "somewhatpoorintelligence") {
 			intMin += 3;
 			intMax += 4;
 		} else if (line == "averageintelligence") {
